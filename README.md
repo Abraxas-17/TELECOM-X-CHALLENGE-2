@@ -29,9 +29,13 @@ Principales hallazgos
 Se identificaron varios factores asociados con una mayor probabilidad de cancelación:
 
 Clientes con menor tiempo de permanencia
+
 Contratos de tipo mes a mes
+
 Pagos mediante Electronic Check
+
 Mayores cargos mensuales
+
 Tipo de servicio de internet
 
 📌Conclusión
